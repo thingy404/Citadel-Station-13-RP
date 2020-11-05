@@ -15,6 +15,13 @@
 		#include "../../_maps/map_files/tether/tether-01-surface1.dmm"
 		#include "../../_maps/map_files/tether/tether-02-surface2.dmm"
 		#include "../../_maps/map_files/tether/tether-03-surface3.dmm"
+		#include "../../_maps/map_files/tether/tether-04-transit.dmm"
+		#include "../../_maps/map_files/tether/tether-05-station1.dmm"
+		#include "../../_maps/map_files/tether/tether-06-station2.dmm"
+		#include "../../_maps/map_files/tether/tether-07-station3.dmm"
+		#include "../../_maps/map_files/tether/tether-08-mining.dmm"
+		#include "../../_maps/map_files/tether/tether-09-solars.dmm"
+		#include "../../_maps/map_files/tether/tether-10-colony.dmm"
 	#endif
 
 	#include "submaps/_tether_submaps.dm"
